@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tensorflow_neural_net_live_demo", "tensorflow_neural_net_live_demo\tensorflow_neural_net_live_demo.pyproj", "{1FC297A5-1C84-40A4-953D-2829B47B8D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC297A5-1C84-40A4-953D-2829B47B8D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC297A5-1C84-40A4-953D-2829B47B8D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21127E58-2EEA-4352-96B2-2B6366A40E96}
+	EndGlobalSection
+EndGlobal
